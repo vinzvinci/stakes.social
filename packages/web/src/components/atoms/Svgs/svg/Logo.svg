@@ -1,16 +1,1 @@
-<svg viewBox="0 0 408 146" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<clipPath id="d" transform="translate(0 -.5)">
-<path d="M147.14,72.87c0,42.9-33.85,72.88-82.75,72.88H0V0H65.72C113.73,0,147.14,29.77,147.14,72.87Zm-35.62.21c0-26.86-19.91-45.39-46.47-45.39H35v90.37H66.6C92.49,118.06,111.52,99.74,111.52,73.08Zm145.15,34.36,19.47,16.66c-13.72,15.2-31.87,22.9-53.55,22.9-37.84,0-63.28-22.9-63.28-57,0-33.73,23.67-57,61.07-57.26,34.51-.21,57.3,19.57,58.63,51.64l-82.31,20.4C201.79,115.56,212,122,225,122,236.53,122,247.59,117,256.67,107.44ZM193.38,85.58,245.6,72.25c-3.76-10.83-11.95-15.83-23.45-15.83C205.33,56.42,194.49,66.63,193.38,85.58ZM318.17,33.73l28.1,81.62,27.88-81.62H408l-44.92,112h-35L283,33.94Z" fill="none"/>
-</clipPath>
-<linearGradient id="c" x2="405.98" y1="74.5" y2="74.5" gradientTransform="matrix(1 0 0 -1 0 148)" gradientUnits="userSpaceOnUse">
-<stop stop-color="#00ebff" offset="0"/>
-<stop stop-color="#f200df" offset=".35"/>
-<stop stop-color="#ff4700" offset="1"/>
-</linearGradient>
-</defs>
-<title>Logo</title>
-<g clip-path="url(#d)">
-<path transform="translate(0 -.5)" d="M408,.5H0v146H408Z" fill="url(#c)"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 408 146"><defs><clipPath id="d" transform="translate(0 -.5)"><path fill="none" d="M147.14,72.87c0,42.9-33.85,72.88-82.75,72.88H0V0H65.72C113.73,0,147.14,29.77,147.14,72.87Zm-35.62.21c0-26.86-19.91-45.39-46.47-45.39H35v90.37H66.6C92.49,118.06,111.52,99.74,111.52,73.08Zm145.15,34.36,19.47,16.66c-13.72,15.2-31.87,22.9-53.55,22.9-37.84,0-63.28-22.9-63.28-57,0-33.73,23.67-57,61.07-57.26,34.51-.21,57.3,19.57,58.63,51.64l-82.31,20.4C201.79,115.56,212,122,225,122,236.53,122,247.59,117,256.67,107.44ZM193.38,85.58,245.6,72.25c-3.76-10.83-11.95-15.83-23.45-15.83C205.33,56.42,194.49,66.63,193.38,85.58ZM318.17,33.73l28.1,81.62,27.88-81.62H408l-44.92,112h-35L283,33.94Z"/></clipPath><linearGradient id="c" x2="405.98" y1="74.5" y2="74.5" gradientTransform="matrix(1 0 0 -1 0 148)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#00ebff"/><stop offset=".35" stop-color="#f200df"/><stop offset="1" stop-color="#ff4700"/></linearGradient></defs><title>Logo</title><g clip-path="url(#d)"><path fill="url(#c)" d="M408,.5H0v146H408Z" transform="translate(0 -.5)"/></g></svg>
